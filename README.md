@@ -1,6 +1,5 @@
 # Basic layout and UI
 
-Foobar is a Python library for dealing with word pluralization.
 
 ## Task 
 
