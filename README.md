@@ -1,40 +1,17 @@
-# Basic layout and UI
-
-Foobar is a Python library for dealing with word pluralization.
+# API layer and App Architecture
 
 ## Task 
 
-1. Implementing basic UI and layout of your app, with at least 3 functional screens;
-2. At least 1 screen should present a collection of data (list of elements). The list should contain at least 30 elements. A list with multiple columns of at least 2 should be present;
-3. On Android, use "RecyclerView";
-4. Supporting different screen sizes and orientation is mandatory.
-
-
+1. Implementing the API layer of the app;
+2. Integrating the app with some specific REST API or TCP server, fetching real data and populating the UI with the respective data;
+3. Selecting a presentation layer architecture and implementing it.
 
 ## Screenshots
 
-List of Notebooks
+![Screenshot_1](https://user-images.githubusercontent.com/72708199/115826811-21e6b100-a414-11eb-87d3-5d2cb72dcd17.png)
 
-![rsz_1notebook_list](https://user-images.githubusercontent.com/72708199/110904524-c522b180-8311-11eb-935a-2d87c2522019.png)
+![Screenshot_2](https://user-images.githubusercontent.com/72708199/115826855-3034cd00-a414-11eb-9e60-2aac97346e2a.png)
 
-List of Notes in a Notebook
+![Screenshot_3](https://user-images.githubusercontent.com/72708199/115826879-3b87f880-a414-11eb-8a6b-c0100fb966df.png)
 
-![rsz_single_notebook](https://user-images.githubusercontent.com/72708199/110904608-ebe0e800-8311-11eb-9d47-b94bfb6d1945.png)
-
-Creating a new Notebook
-
-![rsz_create_notebook](https://user-images.githubusercontent.com/72708199/110904743-1df24a00-8312-11eb-803b-acf1ce0c0986.png)
-
-
-Creating a new Note
-
-![rsz_1create_note](https://user-images.githubusercontent.com/72708199/110904337-7a089e80-8311-11eb-9fd5-c860c197b84b.png)
-
-Editing a Notebook
-
-![rsz_edit_notebook](https://user-images.githubusercontent.com/72708199/110904845-437f5380-8312-11eb-8c69-04084e1e2a90.png)
-
-Editing a Note
-
-![rsz_edit_note](https://user-images.githubusercontent.com/72708199/110904921-5c880480-8312-11eb-8300-c665a9d19215.png)
-
+![Screenshot_4](https://user-images.githubusercontent.com/72708199/115826924-49d61480-a414-11eb-945c-c5945f8b4901.png)
